@@ -1,0 +1,15 @@
+XML defines rules for decoding documents in a format that is both human-readable and machine-readable. - V
+XML vocabulary documents are like HTML documents in that they are text-based and consist of markup and content. - V
+Markup is evidenced via ids and each id has a name. - F
+An XML document usually begins with the XML declaration, which is typical markup telling an XML parser that the document is XML. - V
+The XML declaration minimally looks like <?xml version="1.0"?> - V
+XML declaration is a flat (tree) structure of elements - F
+Element is a portion of the document delimited by a start tag and an end tag. - V 
+All characters appear literally in the content. - F
+Namespaces are used to prevent name conflicts when elements and other XML language features. - V
+XML is a non case-sensitive language - F
+DTD grammar documents are written in accordance to a strict syntax that states what elements may be present and in what parts of a document. - V
+XML Schema is a grammar language for declaring the structure, content, and semantics of an XML document. - V
+JSON (JavaScript Object Notation) is a language-dependent data format that expresses JSON objects as human-readable lists of properties ( key-value pairs ). - V
+The JSON data format presents a JSON object as a brace-delimited and comma-separated list of properties. - V
+Four specific characters are considered whitespace for this purpose: space, horizontal tab, line feed, and carriage return. - F
